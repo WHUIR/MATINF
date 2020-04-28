@@ -7,4 +7,10 @@ You can access MATINF dataset by signing [the agreement on Google Form](https://
 **ALL USE MUST BE NON-COMMERCIAL!!**
 
 ## Code
-We are still working on the code release. Please stay tuned!
+Please manually change the `stage` variable in `main()` to toggle from different training phases.
+
+Then run:
+```bash
+python run.py
+```
+Code credit: [Hongtao Wu](mailto:wuhongtao@whu.edu.cn)
