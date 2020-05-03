@@ -13,4 +13,4 @@ Then run:
 ```bash
 python run.py
 ```
-Code credit: [Hongtao Wu](mailto:wuhongtao@whu.edu.cn)
+Code credit: [Hongtao Wu](mailto:wuhongtao@whu.edu.cn?cc=xucanwen@whu.edu.cn)
