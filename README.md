@@ -5,20 +5,20 @@ The dataset and PyTorch Implementation for ACL 2020 paper ["MATINF: A Jointly La
 If you use the dataset or code in your research, please kindly cite our work:
 
 ```bibtex
-@inproceedings{duan-etal-2020-pre,
-    title = "Pre-train and Plug-in: Flexible Conditional Text Generation with Variational Auto-Encoders",
-    author = "Duan, Yu  and
-      Xu, Canwen  and
+@inproceedings{xu-etal-2020-matinf,
+    title = "{MATINF}: A Jointly Labeled Large-Scale Dataset for Classification, Question Answering and Summarization",
+    author = "Xu, Canwen  and
       Pei, Jiaxin  and
-      Han, Jialong  and
+      Wu, Hongtao  and
+      Liu, Yiyu  and
       Li, Chenliang",
     booktitle = "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
     month = jul,
     year = "2020",
     address = "Online",
     publisher = "Association for Computational Linguistics",
-    url = "https://www.aclweb.org/anthology/2020.acl-main.23",
-    pages = "253--262"
+    url = "https://www.aclweb.org/anthology/2020.acl-main.330",
+    pages = "3586--3596",
 }
 ```
 
