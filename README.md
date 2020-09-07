@@ -23,8 +23,7 @@ If you use the dataset or code in your research, please kindly cite our work:
 ```
 
 ## Dataset
-You can get MATINF dataset by signing [the agreement on Google Form](https://forms.gle/nkH4LVE4iNQeDzsc9) to request the access. You will get the download link and the zip password after filling the form. Please use [7zip](https://www.7-zip.org/) to decompress.
-
+You can get MATINF dataset by signing [the agreement on Google Form](https://forms.gle/nkH4LVE4iNQeDzsc9) to request the access. You will get the download link and the zip password after filling the form.
 **ALL USE MUST BE NON-COMMERCIAL!!**
 
 ## Code
